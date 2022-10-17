@@ -1,5 +1,3 @@
-# CS304-I8
-
 ## Introduction
 In this lab, students were asked to see if they could complete a piece of pre-existing, incomplete Java code by inserting it into it. To accomplish this, an extension was to be added to the end of the existing code, which would output the data the code interpreted into readable text and present it to the user via the console. The pre-existing code produced row objects to house the data, opened an input file with a specified name, and generated keys from the top row (header) to split into an ArrayList. After reading and processing the data of/in each row, the pre-existing code would print the total number of rows read from the given input file and close the file. Under Dr. Ogden's supervision, this lab was carried out in the Computer Programming II course (CS232).
 
